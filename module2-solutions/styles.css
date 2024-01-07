@@ -2,12 +2,12 @@
 	box-sizing: border-box;
 }
 body{
-	background-color: #1E121Cff;
+	background-color: white;
 	padding: 0 2%;
 	margin:0;
 }
 h1{
-	color: floralwhite;
+	color: black;
 	text-align: center;
 	font-family: Gill Sans, sans-serif;
 }
@@ -15,7 +15,7 @@ h1{
 p{
 	width: 100%;
 	font-size: 14px;
-	color: white;
+	color: black;
 	font-family: Gill Sans, sans-serif;
 	margin-left: auto;
 	margin-right: auto;
@@ -34,7 +34,7 @@ h3{
 }
 .container{
 	padding: 0;
-	border: 1px solid white;
+	border: 1px solid black;
 	position: relative;
 	
 }
@@ -49,13 +49,22 @@ h3{
 	width: 100%;
 }
 #chicken{
-	background-color: #F15666ff;
+	background-color: grey;
 }
 #beef{
-	background-color: #F6851Fff;
+	background-color: grey;
 }
 #sushi{
-	background-color: #D02128ff;
+	background-color: grey;
+}
+#bx1{
+  background-color: pink;
+}
+#b2{
+  background-color: rgb(244, 98, 98);
+}
+#bx3{
+  background-color: rgb(242, 242, 124);;
 }
 
 /*Large Media Format*/ 
